@@ -1,7 +1,0 @@
-version: 2
-sources:
-    - name: datafeed_mydata
-      database: "{{('db1')}}"
-      schema: raw_dev
-      tables:
-         - name: SUPPLIERS
