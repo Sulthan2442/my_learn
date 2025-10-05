@@ -5,3 +5,4 @@ sources:
       schema: raw_dev
       tables:
          - name: SUPPLIERS
+         - name: alpha
